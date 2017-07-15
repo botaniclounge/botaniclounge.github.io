@@ -1,0 +1,25 @@
+url: "http://botaniclounge.github.io"
+baseurl: ""
+
+title: Botanic Lounge
+
+# Short description of your site
+description: Your Comfy Lounge with Caffe & Pub
+
+contact:
+  name: Host_BL
+  email: "botanic2lounge@gmail.com"
+  instagram : "botaniclounge"
+  numbers : "12345678"
+ 
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - Vagrantfile
+
